@@ -1,0 +1,81 @@
+/* *{
+    max-width: 1600px;
+    height: 2800px;
+} */
+
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+
+nav .left img{
+    width: 140px;
+    height: 60px;
+    margin: 16px auto;
+    
+
+}
+
+nav .middle ul{
+    width: 365px;
+    height: 24px;
+    font-size: 16px;
+    margin: 34px auto;
+    display: flex;
+    list-style: none;
+    gap: 32px;
+    justify-items: left;
+    
+    
+    
+    
+
+   
+}
+
+
+nav .right p{
+    width: 164px;
+    height: 24px;
+    background-color: #30B868;
+    text-align: center;
+    padding: 12px 16px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #FFFFFF;
+    
+
+}
+
+.banner{
+    display: flex;
+}
+
+
+.bgim{
+    background-image: url(../B13-A01-Knowledge-Vault/assets/hero-bg.png);background-size: cover;background-repeat: contain;
+}
+
+
+
+
+.bantext p{
+    width: 229px ;
+    height: 35px;
+    font-size: 16px;
+    text-align: center;
+    border: 1px solid red;
+    background-color: red;
+    border-radius: 1000px;
+    gap: 6px;
+    padding: 8px 12px;
+    display: flex;
+    justify-content: center; 
+    
+}
+
+
