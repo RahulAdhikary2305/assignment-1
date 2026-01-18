@@ -1,3 +1,41 @@
-*{
-    background-color: red;
+
+nav .div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.navimg {
+    width: 140px;
+    height: 60px;
+    margin: 16px 120px;
+}
+
+.navlist {
+    list-style: none;
+    width: 365px;
+    height: 34px;
+    gap: 32px;
+    display: flex;
+    font-weight: 700px;
+    font-size: 16px;
+
+    margin: 34px 24px;
+    
+}
+
+.navbtn {
+    font-size: 16px;
+    font-weight: 600;
+    width: 184px;
+    
+    align-items: center;
+    gap: 10px;
+    padding: 12px 16px;
+    background-color: #30B868;
+    color: #FFFFFF;
+    border-radius: 5px;
+    border-color: #30B868;
+    margin: 24px 120px;
+
+
 }
