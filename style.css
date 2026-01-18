@@ -1,3 +1,13 @@
+
+
+
+.inter{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  
+}
+
+
 *{
     margin: 0px;
 }
@@ -163,7 +173,7 @@ nav .div{
 }
 
 .rectangle{
-    height: 151px;
+    height: 251px;
     width: 150px;
     border: 1px solid black;
     display: flex;
