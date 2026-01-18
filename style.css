@@ -109,6 +109,10 @@ nav .div{
     border-radius: 5px;
 }
 
+
+
+    
+
 .banbtn2 {
     background-color: transparent;
     color: #FFFFFF;
@@ -121,7 +125,7 @@ nav .div{
 .nothed{
     display: flex;
     flex-direction: column;
-    margin: auto 120px;
+    margin: 60px 120px;
 
     align-items: center;
 }
@@ -267,4 +271,43 @@ nav .div{
     color: #627382;
     line-height: 20px;
 
+}
+
+.foo{
+    /* padding: 120px 120px 120px 30px;
+    background-color: #1E1E1E;
+    margin: 120px 0px 0px 0px; */
+}
+
+
+.fooimg{
+
+
+}
+
+.foologotex{
+
+    font-size: 16px;
+    color: white;
+    line-height: 20px;
+
+}
+
+
+.foo{
+    display: flex;
+    justify-content: space-around;
+}
+
+.end{
+    padding: 120px 120px 120px 30px;
+    background-color: #1E1E1E;
+    margin: 120px 0px 0px 0px;
+
+}
+
+.ending{
+    /* padding: 150px 0px 0px 5px; */
+    text-align: center;
+    color: white;
 }
