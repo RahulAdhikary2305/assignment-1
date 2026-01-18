@@ -176,3 +176,47 @@ nav .div{
 }
 
 
+.brain{
+    padding: 120px 120px;
+}
+
+.braimg{
+    height: 600px;
+    width: 600px;
+    border-radius: 12px;
+
+}
+
+.brainfo{
+    padding: 102px 0px;
+}
+
+.brainfomes{
+    font-size: 16px;
+    line-height: 20px;
+    color: #30B868;
+}
+
+.brainfotitle{
+    font-size: 48px;
+    color: #001931;
+
+}
+
+.brainfodes{
+    font-size: 16px;
+    color: #627382;
+    line-height: 20px;
+}
+
+.braininfoulli{
+    font-size: 16px;
+    color: black;
+    line-height: 20px;
+
+}
+
+.brain{
+    display: flex;
+    gap: 100px;
+}
