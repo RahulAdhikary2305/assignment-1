@@ -220,3 +220,51 @@ nav .div{
     display: flex;
     gap: 100px;
 }
+
+
+
+.early{
+    margin: 0px 120px;
+}
+.earlyinfo{
+    padding: 80px 40px;
+    gap: 24px;
+    border-radius: 12px;
+    background-color: #F7F6F2;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.earlyinfoh1{
+    font-size: 40px;
+    color: black;
+}
+
+.earlyinfoh1des{
+    font-size: 16px;
+    color: #627382;
+    line-height: 24px;
+}
+
+.earlyinfobtn{
+    background-color: #30B868;
+    padding: 12px 16px;
+    gap: 10px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 400;
+
+    height: 52px;
+    width: 194px;
+
+}
+
+.earlyinfoendmess{
+
+    font-size: 16px;
+    color: #627382;
+    line-height: 20px;
+
+}
